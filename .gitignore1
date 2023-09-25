@@ -1,1 +1,33 @@
+css -->
+.BryanFoto{
+width:700px
+}
+html{
+    background-color: black;
+}
+p{
+    color:white
+}
+h1{
+    color:white
+}
+body{
+    text-align: center;
+}
 
+
+
+--> html
+<html>
+    <head>
+    <link rel="stylesheet" href="main.css">
+</head>
+    <body>
+        <h1><strong><u>Bryan Arnett</u></strong></h1>
+        <img class="BryanFoto" src="BryanArnett.jpg">
+   
+        <p>Dit is Bryan Arnett, een bekende skateboarder van <b>Fillmore</b>.<br>Hij maakt leuke skatecontent samen met zijn goede vriend Ashton.</p>
+        <p>Dit is zijn <a href="https://www.youtube.com/@BryanArnett">youtube</a>.</p>
+    </body>
+    
+</html>
